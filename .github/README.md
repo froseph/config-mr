@@ -1,4 +1,4 @@
-# [tyrion/environment][]
+# froseph/config-mr
 
 A repo for managing my personal computing environment. Includes:
 

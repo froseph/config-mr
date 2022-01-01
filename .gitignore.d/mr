@@ -7,4 +7,5 @@
 !.config/mr/config.d/*
 !.gitignore.d
 !.gitignore.d/mr
+!/.github/
 !/.github/README.md
