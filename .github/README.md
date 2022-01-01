@@ -39,10 +39,10 @@ The contents of this branch can be summarized as follows:
 
 ## How to use on a new system
 
-Clone the mr branch with vcsh:
+Clone the mr branch with vcsh-- replace with your link to your git repo:
 
 ```
-$ vcsh clone https://example.com/your-fork mr
+$ vcsh clone -b main git@github.com:froseph/config-mr.git mr
 ```
 
 Enable/disable the repository definitions that you want on the system:
