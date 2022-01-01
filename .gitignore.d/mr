@@ -1,4 +1,5 @@
 *
+!.mrconfig
 !.config
 !.config/mr
 !.config/mr/available.d
