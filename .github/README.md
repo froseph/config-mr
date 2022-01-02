@@ -14,6 +14,7 @@ For a detailed explanation see:
 [tyrion/mr-template]: https://github.com/tyrion/mr-template/
 [myrepos]: https://myrepos.branchable.com/
 [vcsh]: https://github.com/RichiH/vcsh
+[gnu stow]: https://www.gnu.org/software/stow/ - Some templates may use this
 [blog-post]: https://germano.dev/dotfiles/
 
 ## Structure of the `mr` branch
