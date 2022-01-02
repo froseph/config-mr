@@ -1,0 +1,4 @@
+[$HOME/.config/vcsh/repo.d/config-git.git]
+order = 0
+# NOTE: put here the correct url for your repository
+checkout = vcsh clone -b main git://github.com/froseph/config-git.git config-git
