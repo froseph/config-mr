@@ -1,4 +1,4 @@
 [$HOME/.config/vcsh/repo.d/tmux.git]
 order = 20
 # NOTE: put here the correct url for your repository
-checkout = vcsh clone -b main git://github.com/froseph/config-tmux.git tmux
+checkout = vcsh clone -b main git@github.com:froseph/config-tmux.git tmux
