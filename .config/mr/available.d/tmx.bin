@@ -1,4 +1,4 @@
 [$HOME/programs/tmux-extra]
-order = 0
+order = 10
 checkout = git clone 'git@github.com:ludo-c/tmux-extra.git' 'tmux-extra'
 post_checkout = ln -s $HOME/programs/tmux-extra/tmx $HOME/bin/
