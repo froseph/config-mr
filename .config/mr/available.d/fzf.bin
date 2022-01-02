@@ -1,0 +1,4 @@
+# for zsh completions in zsh quickstart kit
+[$HOME/.fzf]
+order = 10
+checkout = git clone 'https://github.com/junegunn/fzf.git' .fzf
