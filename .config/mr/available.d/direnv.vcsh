@@ -1,0 +1,5 @@
+[$HOME/.config/vcsh/repo.d/direnv.git]
+# 0 = mr, 10 = programs, 20 = config, 30 = plugins
+order = 20
+# NOTE: put here the correct url for your repository
+checkout = vcsh clone -b main git@github.com:froseph/config-direnv.git direnv
